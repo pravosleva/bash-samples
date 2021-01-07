@@ -1,2 +1,5 @@
 # Artefacts
 uploads/
+node_modules
+**/special.*
+!**/special.*/.gitkeep

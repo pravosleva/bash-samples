@@ -1,0 +1,23 @@
+{
+  "name": "bash-samples",
+  "version": "1.0.0",
+  "description": "Описание всех скриптов относительно их папки `sample-xx/`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pravosleva/bash-samples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pravosleva/bash-samples/issues"
+  },
+  "homepage": "https://github.com/pravosleva/bash-samples#readme",
+  "dependencies": {
+    "slugify-files": "^2.1.0"
+  }
+}
